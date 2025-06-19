@@ -18,4 +18,4 @@ Este proyecto lo desarrollé para practicar y mostrar mis habilidades como anali
 - Ventas por mes y por vendedor
 - Subconsultas para análisis de rentabilidad
 
-Este proyecto está pensado para demostrar cómo una base de datos sencilla puede ser fuente rica de análisis con el uso correcto de SQL.
+Este proyecto está pensado para demostrar cómo una base de datos sencilla se puede realizar el análisis con el uso correcto de SQL.
